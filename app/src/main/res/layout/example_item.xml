@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.fox.cachedtextview.CachedTextView
+    android:id="@+id/cached_text_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ravic/.android/build-cache/af2a52ea95f80a419fdb7ffa943cc9c053e74df8/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-892884eab7babf0d465625e8eb56a1a6c1ef9f64.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/ea9c8a9fe1f439206891c80d2c528f915ae2d381/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e5b5fefe22a662e4d71126ba450b31b2df738263.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/54d40b7bba04a63e8405c052ca69bc66cc5a9b24/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1c906e336aa8c4f472cbdd4ecf3cc054aab7a0bd.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/0e85816c4a7ae0a1e8ab19eb635c8a4d183c3093/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-683babecd7bfd3af51089185926bd320f15cab32.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-3bad1c36536315f452c83ebd972e73b1c8d45d49.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/54aad81c13747113c5bca21f6286fc69263cf6ad/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-790ba50ae4bcb3c6d890662a17247af746c09fe6.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/d79cef91bb64dc81f5ff3ca51e6fadf44fc0989f/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2d0e9172ae42c84d35dd27c2fe64a17b65242ffc.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.2.0-35269404ab4164789b7e5fd340c770a8357ebedc.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/7f3205291d99aa406d34ad833623e1ebb7b4d16b/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-96fc0dea82e2246c3a65536b020ba71a6a8e5a7a.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/149a2d3612cbded53f60c0fd7d18b442d7bed9f3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c22858663f9e6dd633d76b585f9094d423442c06.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/5f381f26b33cd0c9a56badec4c0fe6b6c658657a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f7b68b84cdc30b0266d0127060e3ef900c1e27aa.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/4abc7bb6af0223bebd16dc0618c8fe6b41ab0a57/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-14c067c788142adabb35b949d9f74965f1949bf3.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/.android/build-cache/a635565de5784faa0b9e843d736d4ac72bc39219/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-74043069b8d96c483627d116293f72bbab02100b.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-a91f3bb01b4f3b32aea6b1f1b94d492390d15d2c.jar" />
+    </item>
+    <item
+        jar="/Users/Ravic/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/Ravic/git/personal/android/CachedTextLayout/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-cc8f84207e279033d606b02913fd4f2247432e28.jar" />
+    </item>
+
+</items>
